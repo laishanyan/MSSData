@@ -2,6 +2,8 @@
 
 Image data can be downloaded from https://drive.google.com/file/d/1j_Q5rIVLJyTtIbVh0Sbbp1MLPo19Mpc8/view?usp=sharing
 
+## A dataset containing more samples, MSSData+, will be released soon.
+
 Following recommendations from experts in emergency management, the dataset was reorganized into three severity levels to provide more intuitive insights for governmental disaster response and resource allocation:
 
 1 No visible damage: Posts describing the disaster without showing clear evidence of physical damage.
