@@ -1,9 +1,15 @@
 # MSSData
 
-图像数据请从 https://drive.google.com/file/d/1j_Q5rIVLJyTtIbVh0Sbbp1MLPo19Mpc8/view?usp=sharing 处下载。
-
 Image data can be downloaded from https://drive.google.com/file/d/1j_Q5rIVLJyTtIbVh0Sbbp1MLPo19Mpc8/view?usp=sharing
 
-由于后处理过程中可能存在疏忽，此数据集可能包含与隐私相关的信息，如个人肖像、车牌或其他可识别的详细信息。因此，该数据集仅用于科学研究目的，不得用于任何商业或非研究活动。
+Following recommendations from experts in emergency management, the dataset was reorganized into three severity levels to provide more intuitive insights for governmental disaster response and resource allocation:
 
-Due to possible oversight during post-processing, this dataset may contain privacy-related information such as personal portraits, license plates, or other identifiable details. Therefore, the dataset is provided solely for scientific research purposes and must not be used for any commercial or non-research activities.
+1 No visible damage: Posts describing the disaster without showing clear evidence of physical damage.
+
+2 Moderate damage: Damage that can be managed or repaired by local community members without external support.
+
+3 Severe damage: Damage requiring intervention or coordinated response from governmental or external agencies.
+
+Reorganizing disaster severity into three categories—no visible damage, moderate damage, and severe damage—provides a clearer and more actionable framework for governmental emergency response. In real-world disaster management, decision-makers often require coarse yet operationally meaningful classifications that directly correspond to levels of intervention. The three-class schema aligns with this need by distinguishing between communities that require no assistance, those capable of self-recovery, and those that demand immediate external support. This simplification reduces ambiguity in interpreting social media reports, enhances the efficiency of resource allocation, and facilitates rapid prioritization during large-scale emergencies. Moreover, from an analytical perspective, the streamlined taxonomy improves label consistency and reduces inter-class confusion caused by subjective interpretations of intermediate damage levels. As a result, the three-class categorization not only increases the practical relevance of the dataset for emergency management agencies but also enhances the robustness and interpretability of multimodal models trained for real-world disaster assessment.
+
+ ## Due to possible oversight during post-processing, this dataset may contain privacy-related information such as personal portraits, license plates, or other identifiable details. Therefore, the dataset is provided solely for scientific research purposes and must not be used for any commercial or non-research activities.
