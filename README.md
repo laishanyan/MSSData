@@ -2,10 +2,10 @@
 
 In accordance with the requirements of relevant regulatory authorities, we have removed all samples that violate privacy protection policies, including samples containing identifiable faces, readable license plates, and other sensitive personal information. Only data that complies with privacy and ethical standards is included in the released dataset. However, due to potential oversights during post-processing, the dataset may still contain traces of privacy-related content. Therefore, this dataset is provided solely for scientific research purposes and must not be used for any commercial applications or non-research activities.
 
-## News
-The updated and expanded dataset MSSData+ has been released. Image data is stored in reseases.
 
-## MSSData+
+## The updated and expanded dataset MSSData+ has been released. Image data is stored in reseases.
+
+# MSSData+
 
 Following recommendations from experts in emergency management, the dataset was reorganized into three severity levels to provide more intuitive insights for governmental disaster response and resource allocation:
 
