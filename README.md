@@ -1,6 +1,6 @@
 # MSSData
 
-Image data can be downloaded from https://drive.google.com/file/d/1j_Q5rIVLJyTtIbVh0Sbbp1MLPo19Mpc8/view?usp=sharing
+Image data is in image.zip
 
 ## A dataset containing more samples, MSSData+, will be released soon.
 
